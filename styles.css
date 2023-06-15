@@ -1,8 +1,8 @@
-.changeColorOff {
+.backgroundOff {
     background-color: hsla(243, 100%, 70%, 0.693);
 }
 
-.changeColorOn {
+.backgroundOn {
     background-color: rgb(229 162 19);
 }
 
@@ -48,7 +48,7 @@ button:hover {
     
 }
 
-.touchTime {
+.lastTime {
     font-size: 24px;
     position: absolute;
     text-align: bottom;
