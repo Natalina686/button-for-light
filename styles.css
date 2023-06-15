@@ -1,9 +1,9 @@
 .changeColorOff {
-    background-color: hsl(243, 100%, 70%);
+    background-color: hsla(243, 100%, 70%, 0.693);
 }
 
 .changeColorOn {
-    background-color: hsl(248, 43%, 18%);
+    background-color: rgb(229 162 19);
 }
 
 .btnOff {
@@ -13,7 +13,7 @@
     box-shadow: 8px 5px  8px 5px #2f2cdc80;
     border-color: hsl(227, 52%, 34%);
     background-color: #121535;
-    color: #7068ff;
+    color: rgb(229 162 19);
     position: absolute;
     left: 0;
     right: 0;
@@ -36,7 +36,7 @@ button:hover {
     box-shadow: 8px 5px  8px 5px #2f2cdc80;
     border-color: hsl(227, 52%, 34%);
     background-color:  #7068ff;
-    color: #121535;
+    color: rgb(229 162 19);
     position: absolute;
     left: 0;
     right: 0;
@@ -52,4 +52,5 @@ button:hover {
     font-size: 24px;
     position: absolute;
     text-align: bottom;
+    
 }
